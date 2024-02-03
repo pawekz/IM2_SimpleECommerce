@@ -2,5 +2,6 @@
 A simple e-commerce based on Django (ReactJS as Front-End)
 
 Members:<br>
-Paulo "Pawekz" Carabuena 👳‍♂️
-Donnalyn Topacio
+Paulo "Pawekz" Carabuena 👳‍♂️<br>
+Donnalyn Topacio<br>-
+
