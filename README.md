@@ -7,5 +7,5 @@ Donnalyn Topacio<br>
 El Es Cee<br>
 J Em Bee<br>
 J Ey Dee<br>
-<img src="C:\Users\donna\Downloads\bgpp3.jpg">
+
 
